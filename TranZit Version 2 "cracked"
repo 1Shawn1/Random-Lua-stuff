@@ -1,3 +1,9 @@
+--[[
+Dumb ass LT2 script that logs ip and has a shit whitelist system to use it
+https://v3rmillion.net/member.php?action=profile&uid=2496363
+https://v3rmillion.net/showthread.php?tid=1155886
+]]
+
 local function FullBright()
     if not _G.FullBrightExecuted then
 
@@ -116,7 +122,7 @@ hi = hookfunction(game.HttpGet, function(self, URL, ...)
    return 
 end)
 
--- Dumb ass LT2 script that logs ip and has a shit whitelist system to use it
+
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
